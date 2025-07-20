@@ -1,0 +1,11 @@
+Alex,Pogo,19,Ciencia
+Domenica,Iza,21,Cienca
+Kevin,Nuez,22,Ciencia
+Marcel,Valencia,20,Fisica
+Alex,Pogo,20,Ciencia
+Alex,Pogo,20,Ciencia
+Alex,Pogo ,21,Ciencia
+Alex,Pogo,19,Software
+Andres,Carrillo,20,Fisica
+Domenica ,Iza,21,CienciaIA
+Kevin,Nunez,22,CienciaIA
